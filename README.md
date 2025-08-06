@@ -1,0 +1,1 @@
+This is a Node.js server that can perform both Google account-based user authentication and standard authentication. The server has an integrated artificial intelligence system that scans images for identification and also performs the identification itself.
